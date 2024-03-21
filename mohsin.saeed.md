@@ -20,7 +20,7 @@ DISTINCTIONS AND EXPERIENCES
   </tr>
   <tr>
     <td><img src="urls.jpg" alt="drawing" width="2400"/></td>
-    <td>10 Million Urls traffic handled</td>
+    <td>SAAS Solutions</td>
     <td>AWS stack to handle millions of urls daily using numerous aws services e.g S3, Cloudwatch, Elasticcache, CFT, lambdas</td>
   </tr>
   <tr>
@@ -30,7 +30,7 @@ DISTINCTIONS AND EXPERIENCES
   </tr>
   <tr>
     <td><img src="wwwmaltraffic.jpg" alt="drawing" width="2400"/></td>
-    <td>Million dollar investment by client</td>
+    <td>In house IDS Solution</td>
     <td>Took initiative to capture worldwide malicious http traffic capturing with a target of Zero Day attacks, which eventuallly covered the gap</td>
   </tr>
   <tr>
@@ -41,11 +41,16 @@ DISTINCTIONS AND EXPERIENCES
   <tr>
     <td><img src="pentest.jpg" alt="drawing" width="2400"/></td>
     <td>Pentesting</td>
-    <td>Vulnerability/CVE hunting with both white and black box testing</td>
+    <td>Web Application & APIs white & blackbox pentesting</td>
   </tr>
   <tr>
     <td><img src="infosec.jpg" alt="drawing" width="2400"/></td>
     <td>Data driven network monitoring</td>
     <td>This state of the art technique beats almost all IDS/IPS market solutions, works well with encrypted traffic as well</td>
+  </tr>
+  <tr>
+    <td><img src="protocol.jpg" alt="drawing" width="2400"/></td>
+    <td>Protocols level research</td>
+    <td>Vulnerability/CVE hunting in not just applications or gateways but in the core protocol stack</td>
   </tr>
 </table>
