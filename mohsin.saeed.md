@@ -2,9 +2,14 @@
 <html>
 <head>
   <title>Mohsin Saeed's Portfolio</title>
+<style>
+body {
+  background-image: url('background.jpg');
+  <!--background-repeat: no-repeat;
+}
+</style>
 </head>
 <body>
-	<p style="background-image: url('background.jpg');">
 
 
 
